@@ -1,0 +1,17 @@
+"*":
+  core:
+    disabledPackages: [
+      "autocomplete-plus"
+      "language-gfm"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    softWrap: true
+  "exception-reporting":
+    userId: "f2fefe6b-b009-96dc-10d7-fd9628cb7f64"
+  welcome:
+    showOnStartup: false
